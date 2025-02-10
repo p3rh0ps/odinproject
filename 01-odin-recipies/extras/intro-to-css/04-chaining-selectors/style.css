@@ -1,0 +1,21 @@
+/* Add CSS Styling */
+:root {
+    --main-prop-wide: 300px;
+    --main-dist-wide: 200px;
+    --doub-dist-wide: 400px;
+}
+
+.avatar {
+    width: auto;
+    height: auto;
+}
+
+.avatar.proportioned {
+    width: var(--main-prop-wide);
+    height: inherit;
+}
+
+.avatar.distorted {
+    width: var(--main-dist-wide);
+    height: var(--doub-dist-wide);
+}
