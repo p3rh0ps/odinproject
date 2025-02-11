@@ -1,0 +1,13 @@
+.bien .pasbien {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', serif;
+}
+
+.bien {
+    background-color: black;
+    color: white;
+}
+
+.pasbien {
+    background-color: yellow;
+}
