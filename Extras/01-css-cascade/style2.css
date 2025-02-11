@@ -3,13 +3,13 @@
 }
 
 p.small-para {
-    font-size: 15px;
+    font-size: 18px;
     font-weight: 800px;
     font-weight: bold;
 }
 
 .para {
-    font-size: 22px;
+    font-size: 24px;
     font-weight: bold;
 
 }
@@ -18,6 +18,7 @@ p.small-para {
     background-color: green;
     color: white;
     font-weight: bold;
+    font-size: 20px;
 
 }
 
@@ -25,6 +26,7 @@ p.small-para {
     background-color: white;
     color: black;
     font-weight: bold;
+
 }
 
 .text {
